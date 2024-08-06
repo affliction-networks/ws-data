@@ -1,0 +1,22 @@
+﻿{
+  "Host": "165.140.105.34",
+  "Port": 5400,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesanspro,8",
+  "ChatLines": 100,
+  "MenuMusic": "logintheme.ogg",
+  "MenuBackground": [
+    "background.png"
+  ],
+  "MenuBackgroundDisplayMode": "Default",
+  "MenuBackgroundFrameInterval": 50,
+  "IntroImages": [],
+  "UpdateUrl": "",
+  "MouseCursor": "",
+  "MusicFadeTimer": 1500,
+  "EnableContextMenus": true,
+  "UiSkin": "Atheme2021"
+}
