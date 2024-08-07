@@ -17,7 +17,7 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "ToolTipTextColor": "",
-  "Texture": "settings_window.png",
+  "Texture": "options_horizontal.png",
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,

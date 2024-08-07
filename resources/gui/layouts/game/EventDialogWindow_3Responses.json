@@ -370,7 +370,7 @@
       }
     },
     "EventDialogAreaNoFace": {
-      "Bounds": "16,14,488,80",
+      "Bounds": "16,45,488,50",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
