@@ -1,6 +1,6 @@
 ﻿{
-  "Host": "165.140.105.200",
-  "Port": 5100,
+  "Host": "1.2.3.4",
+  "Port": 5400,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
   "ChatBubbleFont": "sourcesansproblack",
