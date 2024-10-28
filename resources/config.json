@@ -7,7 +7,7 @@
   "ActionMsgFont": "sourcesansproblack",
   "UIFont": "sourcesanspro,8",
   "ChatLines": 100,
-  "MenuMusic": "",
+  "MenuMusic": "logintheme.ogg",
   "MenuBackground": [
     "background.png"
   ],
